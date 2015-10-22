@@ -1,2 +1,2 @@
 # njade
-.NET Port of the Jade template engine
+.NET wrapper for Jade template engine
